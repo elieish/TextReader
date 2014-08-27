@@ -1,0 +1,11 @@
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\TxtFileReader.FileReaderForm.resources
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\TxtFileReader.Resources.resources
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\bin\Debug\TxtFileReader.exe
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\bin\Debug\TxtFileReader.pdb
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\bin\Debug\TxtFileReader.xml
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\TxtFileReader.exe
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\TxtFileReader.xml
+c:\users\bruce\documents\visual studio 2010\Projects\TxtFileReader\TxtFileReader\obj\x86\Debug\TxtFileReader.pdb
